@@ -1,0 +1,16 @@
+### 1. **Pendaftaran (Register)**
+- **URL**: `http://localhost/uasa/public/register.php`
+- **Method**: POST
+- **Body**:
+  - `username: newuser`
+  - `password: newpassword`
+- Langkah: Pilih POST → Masukkan URL → Pilih Body (x-www-form-urlencoded) → Masukkan username & password → Klik Send.
+
+### 2. **Login**
+- **URL**: `http://localhost/uasa/public/login.php`
+- **Method**: POST
+- **Body**:
+  - `username: newuser`
+  - `password: newpassword`
+- Langkah: Pilih POST → Masukkan URL login → Pilih Body (x-www-form-urlencoded) → Masukkan username & password → Klik Send.
+
